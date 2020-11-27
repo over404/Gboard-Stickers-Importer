@@ -1,2 +1,2 @@
 # Gboard-Stickers-Importer
-Import locally stickers to gboard
+Import local stickers to gboard
